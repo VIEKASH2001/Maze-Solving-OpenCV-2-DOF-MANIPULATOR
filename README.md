@@ -1,6 +1,8 @@
-# Maze-Solving-OpenCV
+<a>
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=50&duration=2000&pause=500&multiline=true&width=1500&height=80&lines=Maze+Solving+OpenCV" alt="Typing SVG" />
+</a>
 
-Demonstration Video: https://youtu.be/bDIQAKLgUPg
+**Demonstration Video:** https://youtu.be/bDIQAKLgUPg
 
 Welcome to the Maze-Solving-OpenCV-2-DOF-MANIPULATOR GitHub repository!
 
